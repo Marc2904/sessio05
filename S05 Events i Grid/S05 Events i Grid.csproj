@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>S05_Events_i_Grid</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\aleix.png" />
+    <None Remove="img\araujo.png" />
+    <None Remove="img\arnau.png" />
+    <None Remove="img\bald.png" />
+    <None Remove="img\bcn.png" />
+    <None Remove="img\camp.png" />
+    <None Remove="img\cancelo.png" />
+    <None Remove="img\david.png" />
+    <None Remove="img\dejong.png" />
+    <None Remove="img\eric.png" />
+    <None Remove="img\gavi.png" />
+    <None Remove="img\gaz.png" />
+    <None Remove="img\GIR.png" />
+    <None Remove="img\ivan.png" />
+    <None Remove="img\joao.png" />
+    <None Remove="img\kounde.png" />
+    <None Remove="img\lewan.png" />
+    <None Remove="img\marc.png" />
+    <None Remove="img\michel.png" />
+    <None Remove="img\mig.png" />
+    <None Remove="img\pedri.png" />
+    <None Remove="img\rap.png" />
+    <None Remove="img\savio.png" />
+    <None Remove="img\stuani.png" />
+    <None Remove="img\tsy.png" />
+    <None Remove="img\xavi.png" />
+    <None Remove="img\yan.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\arnau.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\aleix.png" />
+    <Resource Include="img\araujo.png" />
+    <Resource Include="img\bald.png" />
+    <Resource Include="img\bcn.png" />
+    <Resource Include="img\camp.png" />
+    <Resource Include="img\cancelo.png" />
+    <Resource Include="img\david.png" />
+    <Resource Include="img\dejong.png" />
+    <Resource Include="img\eric.png" />
+    <Resource Include="img\gavi.png" />
+    <Resource Include="img\gaz.png" />
+    <Resource Include="img\GIR.png" />
+    <Resource Include="img\ivan.png" />
+    <Resource Include="img\joao.png" />
+    <Resource Include="img\kounde.png" />
+    <Resource Include="img\lewan.png" />
+    <Resource Include="img\marc.png" />
+    <Resource Include="img\michel.png" />
+    <Resource Include="img\mig.png" />
+    <Resource Include="img\pedri.png" />
+    <Resource Include="img\rap.png" />
+    <Resource Include="img\savio.png" />
+    <Resource Include="img\stuani.png" />
+    <Resource Include="img\tsy.png" />
+    <Resource Include="img\xavi.png" />
+    <Resource Include="img\yan.png" />
+  </ItemGroup>
+
+</Project>

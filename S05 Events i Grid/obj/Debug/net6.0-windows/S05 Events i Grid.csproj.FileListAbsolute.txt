@@ -1,0 +1,20 @@
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.exe
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.deps.json
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.runtimeconfig.json
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.dll
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\bin\Debug\net6.0-windows\S05 Events i Grid.pdb
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid_MarkupCompile.cache
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid_MarkupCompile.lref
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.g.resources
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.AssemblyInfoInputs.cache
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.AssemblyInfo.cs
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.csproj.CoreCompileInputs.cache
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.dll
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\refint\S05 Events i Grid.dll
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.pdb
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\S05 Events i Grid.genruntimeconfig.cache
+C:\Users\marcs\Desktop\Ins\M07\S05 Events i Grid\S05 Events i Grid\obj\Debug\net6.0-windows\ref\S05 Events i Grid.dll
